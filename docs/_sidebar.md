@@ -18,6 +18,3 @@
    * [加·加：脚踏实地的将眼前的难题一道一道地解决](chapter01/note13.md)
    * [胡丽：回顾笨方法学写作之路](chapter01/note14.md)
 * [备注](ps/note01s.md)
-* [参考文献](ps/ref.md)
-* [致谢](ps/thanks.md)
-* [后记](end/postscript.md)
