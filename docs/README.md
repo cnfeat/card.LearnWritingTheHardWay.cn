@@ -22,4 +22,5 @@ http://card.LearnWritingTheHardWay.cn
 
 ## Changelog
 
+- 2019-01-11 测试目录
 - 2019-01-09 迁移到 docsify
