@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>卡片创作文集</title>
+  <meta name="keywords" content="笨方法, 笨方法文集, 坚毅, 认真, 科学, 模仿 ">
+  <meta name="description" content="卡片创作文集">
+  <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify/lib/themes/vue.css">
+  <style type="text/css">
+    body { font-family: Helvetica, Arial, "Lucida Grande", "Hiragino Sans GB", "Microsoft Yahei", sans-serif; }
+    .markdown-section code { white-space: pre-line; }
+  </style>
+</head>
+<body>
+  <nav data-cloak>
+    <a href="https://trello.com/b/0qD7WZch/%E7%AC%A8%E6%96%B9%E6%B3%95%E5%AD%A6%E5%86%99%E4%BD%9C-%E5%B8%B8%E8%A7%81%E9%97%AE%E7%AD%94">课程简介</a>
+    <a href="http://www.learnwritingthehardway.cn/">官网</a>
+    <a href="https://www.cnfeat.com">博客</a>
+    <a href="https://story.learnwritingthehardway.cn/">故事</a>
+    <a href="http://book.learnthingsthehardway.com/#//">文集</a>
+  </nav>
+  <div id="app">Please wait...</div>
+  <script>
+    window.$docsify = {
+      name: '<img src="/logo.svg" height="32px">',//侧栏图标。
+      auto2top: true, //当路线改变时，滚动到屏幕的顶部。
+      coverpage: false, //激活封面功能。如果为true，则会从中加载_coverpage.md。
+      executeScript: true, //执行页面上的脚本。只解析第一个脚本标记（演示）。如果存在Vue，则默认开启。
+      loadSidebar: true, //_sidebar.md如果为真，则从_sidebar.md文件加载边栏，否则从指定的路径加载。
+      loadNavbar: true,//_navbar.md如果为真，则从_navbar.md文件加载navbar ，否则从指定的路径加载。
+      mergeNavbar: true,//Navbar将在小屏幕上与侧边栏合并。
+      maxLevel: 4,//最大的内容表级别。
+      subMaxLevel: 2,//在自定义边栏中添加目录（TOC）。
+      ga: 'UA-110468888-3',
+      name: '卡片创作文集',
+      search: {
+        noData: {
+          '/de-de/': 'Keine Ergebnisse!',
+          '/zh-cn/': '没有结果!',
+          '/': 'No results!'
+        },
+        paths: 'auto',
+        placeholder: {
+          '/de-de/': 'Suche',
+          '/zh-cn/': '搜索',
+          '/': 'Search'
+        }
+      },
+      formatUpdated: '{MM}/{DD} {HH}:{mm}',
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function (html) {
+            var url = 'https://github.com/PYfive/docsify/blob/master/' + vm.route.file
+            var editHtml = '[:memo: Edit Document](' + url + ')\n'
+            return html
+              + '\n----\n'
+              + 'Last modified {docsify-updated} '
+              + editHtml
+          })
+        }
+      ]
+    }
+ </script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
+<script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+</body>
+</html>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-110468888-3"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-110468888-3');
+</script>
