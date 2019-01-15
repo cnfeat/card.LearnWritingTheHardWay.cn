@@ -1,5 +1,3 @@
-<!-- docs/_sidebar.md -->
-
 - [序言](chapter00/preface00.md)
 - [文集](chapter01/README.md)
    * [采铜：图层工作法](chapter01/note01.md)
