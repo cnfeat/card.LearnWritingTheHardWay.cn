@@ -7,7 +7,7 @@ http://card.LearnWritingTheHardWay.cn
 
 文章目录
 
-- [卡片创作法之纳博科夫](chapter01/note12.md)
+* [卡片创作法之纳博科夫](chapter01/note12.md)
 * [卡片创作法之司马贺](chapter01/note13.md)
 * [卡片创作法之奥斯卡编剧](chapter01/note14.md)
 * [卡片创作法之王云五](chapter01/note15.md)
