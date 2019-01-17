@@ -20,6 +20,7 @@
    - [李参：利用便利贴进行课程开发](chapter01/note07.md)
    - [赖声川：我如何用卡片创作《如梦之梦》](chapter01/note08.md)
    - [akanelee：团队如何用卡片协作头脑风暴？](chapter01/note22.md)
+   - [川喜田二郎：搭配脑力激荡的最佳武器「KJ法」](chapter01/note23.md)
    - [如何用卡片写故事地图？](chapter01/note09.md)
    - [如何写读书卡片？](chapter01/note10.md)
    - [优秀卡片写作实践](chapter01/note11.md)
