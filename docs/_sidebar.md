@@ -23,5 +23,5 @@
    - [川喜田二郎：搭配脑力激荡的最佳武器「KJ法」](chapter01/note23.md)
    - [如何用卡片写故事地图？](chapter01/note09.md)
    - [如何写读书卡片？](chapter01/note10.md)
-   - [优秀卡片写作实践](chapter01/note11.md)
+   - [文章合集：优秀卡片写作实践](chapter01/note11.md)
 * [后记](end/postscript.md)
