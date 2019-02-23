@@ -11,6 +11,7 @@
    - [卡片创作谈：读书卡片写得越多，反而不会读书了？ ](chapter01/note20.md)
    - [索引卡简史：从这里窥见互联网信息革命](chapter01/note21.md)
    - [卡片创作法相册](https://www.douban.com/photos/album/1657063257/)
+   - [约翰·麦克菲：卡片的排序最有趣味、最富吸引力、最为激动人心](chapter01/note024.md)
    - [采铜：图层工作法](chapter01/note01.md)
    - [于尔根 沃尔夫：索引卡的方法](chapter01/note02.md)
    - [塔奇曼：卡片必须随身携带](chapter01/note03.md)
