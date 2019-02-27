@@ -23,6 +23,7 @@
    - [akanelee：团队如何用卡片协作头脑风暴？](chapter01/note22.md)
    - [川喜田二郎：搭配脑力激荡的最佳武器「KJ法」](chapter01/note23.md)
    - [门捷列夫：我用卡片创造出了元素周期表](chapter01/note25.md)
+   - [斋藤孝：想掌握写作能力的人，请务必铭记，制作创作笔记是第一步](chapter01/note26.md)
    - [如何用卡片写故事地图？](chapter01/note09.md)
    - [如何写读书卡片？](chapter01/note10.md)
    - [文章合集：优秀卡片写作实践](chapter01/note11.md)
