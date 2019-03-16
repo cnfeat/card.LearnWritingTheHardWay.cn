@@ -15,6 +15,13 @@ http://card.LearnWritingTheHardWay.cn
 - [笨方法学写作参考书单](https://www.douban.com/doulist/45064751/)
 
 
+## 赞赏
+
+
+如果内容对你有帮助，那就买盒卡片助我继续分享吧 (＾－＾)
+
+![](https://s2.ax1x.com/2019/03/16/AZUnVU.png)
+
 ## Changelog
 
 
