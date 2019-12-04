@@ -27,6 +27,7 @@
    - [采铜：我如何做卡片笔记？](chapter01/note27.md)
    - [钱钟书是如何用卡片做学问的？](chapter01/note28.md)
    - [宋楚瑜：如何用卡片来做学术论文](chapter01/note29.md)
+   - [李敖：我如何做读书笔记](chapter01/note30.md)
    - [如何用卡片写故事地图？](chapter01/note09.md)
    - [如何写读书卡片？](chapter01/note10.md)
    - [文章合集：优秀卡片写作实践](chapter01/note11.md)
